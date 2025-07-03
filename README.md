@@ -25,3 +25,6 @@ Technologist, Teacher, Author, Developer Relations at Microsoft
 meta - soft key inside head tag to store meta data for easy searches by search engines
 script defer - is to load html page in parts, faster loading
 div - is to separate the page into parts and classes
+
+selector -tells what element you are styling
+declaration- tells you what all styling you need to do
