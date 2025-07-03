@@ -22,6 +22,6 @@ Technologist, Teacher, Author, Developer Relations at Microsoft
 [lil-course-url]: https://www.linkedin.com/learning/html-css-and-javascript-building-the-web
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGOekVdxzy4-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726083011071?e=2147483647&v=beta&t=Snrq_ON58iaRiLWDmpbP7o-3QsmirVWGbMQU--NmG9Q
 
-#<meta> - soft key inside head tag to store meta data for easy searches by search engines
-#<script defer> - is to load html page in parts, faster loading
-#<div> - is to separate the page into parts and classes
+<!--<meta>--> - soft key inside head tag to store meta data for easy searches by search engines
+<!--<script defer>--> - is to load html page in parts, faster loading
+<!--<div>--> - is to separate the page into parts and classes
