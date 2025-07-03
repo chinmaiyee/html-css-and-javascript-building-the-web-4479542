@@ -28,3 +28,5 @@ div - is to separate the page into parts and classes
 
 selector -tells what element you are styling
 declaration- tells you what all styling you need to do
+
+Casacding - inline style over writes default, right rule to pick. change in html presides all
