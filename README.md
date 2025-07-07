@@ -30,3 +30,13 @@ selector -tells what element you are styling
 declaration- tells you what all styling you need to do
 
 Casacding - inline style over writes default, right rule to pick. change in html presides all
+
+border radius is to curve the jar walls
+
+ht and width in terms of %- for different dimensions and resolutions
+
+z index determines stack order.Higher z index stacked above lower z index
+
+border radius to gove curvature to element: rem -> root em -> to give scaling wrt dimensions
+
+its.class:hover{}
